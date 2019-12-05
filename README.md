@@ -1,5 +1,7 @@
 ** Exercicio do sistema de gerenciamento de usuarios **
 
+Documentacao para ajudar !!
+
 Acessar o back-end atraves HTTP request usamos a lib Axios:
 https://github.com/axios/axios
 
@@ -14,6 +16,8 @@ https://www.styled-components.com/docs/basics
 
 Utilizamos a nova feature do React os Hooks
 https://pt-br.reactjs.org/docs/hooks-intro.html
+
+
 
 As telas do sistema :
 
